@@ -24,4 +24,5 @@ export{
     app,
     firestore,
     auth
+
 }
